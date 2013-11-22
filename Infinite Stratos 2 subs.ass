@@ -6,14 +6,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 391
-Active Line: 396
+Scroll Position: 124
+Active Line: 129
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Video File: [L4K] Infinite Stratos 2 - 01 Long Vacation Edition V2 [BD 720p 10bit AAC].mkv
 Video Aspect Ratio: c1.77778
-Video Position: 8762
+Video Position: 8043
 Audio URI: [L4K] Infinite Stratos 2 - 01 Long Vacation Edition V2 [BD 720p 10bit AAC].mkv
 ScaledBorderAndShadow: yes
 
@@ -182,12 +182,12 @@ Dialogue: 0,0:06:13.10,0:06:14.00,Default,,0,0,0,,Ichika-san!
 Dialogue: 0,0:06:15.60,0:06:16.66,Default,,0,0,0,,You can't!
 Dialogue: 0,0:06:16.66,0:06:18.22,Default,,0,0,0,,We shouldn't do that in a place like this!
 Dialogue: 0,0:06:19.24,0:06:21.30,Default,,0,0,0,,Cecilia? Cecilia?
-Dialogue: 0,0:06:22.64,0:06:26.59,Default,,0,0,0,,Huh? I'm alright.  I just drifted for a second.  
+Dialogue: 0,0:06:22.64,0:06:26.59,Default,,0,0,0,,Huh? I'm alright.  I just drifted for a second.
 Dialogue: 0,0:06:27.08,0:06:28.76,Default,,0,0,0,,Oh? I'm glad to hear.
 Dialogue: 0,0:06:29.66,0:06:31.60,Default,,0,0,0,,By the way, would you like to go here tomorrow?
 Dialogue: 0,0:06:33.26,0:06:35.50,Default,,0,0,0,,Oh my! Going out with you, Ichika-san?
 Dialogue: 0,0:06:36.10,0:06:40.16,Default,,0,0,0,,I, Cecilia Alcott, will be prepared for anything!
-Dialogue: 0,0:06:42.82,0:06:46.16,Default,,0,0,0,,Not this again, they aren't aware enough of their position as a bride. 
+Dialogue: 0,0:06:42.82,0:06:46.16,Default,,0,0,0,,Not this again, they aren't aware enough of their position as a bride.
 Dialogue: 0,0:06:46.76,0:06:48.36,Default,,0,0,0,,Something wrong, Laura?
 Dialogue: 0,0:06:51.86,0:06:53.44,Default,,0,0,0,,No, it's nothing.
 Dialogue: 0,0:06:54.60,0:06:59.18,Default,,0,0,0,,Oh yeah! Laura, if you've got some time today,\N would you like to go clothes shopping with me?
@@ -248,15 +248,15 @@ Dialogue: 0,0:10:21.06,0:10:22.10,Default,,0,0,0,,How ridiculous.
 Dialogue: 0,0:10:24.74,0:10:27.72,Default,,0,0,0,,{\i1}If I was going to get one, it might as well have been something cute.
 Dialogue: 0,0:10:28.50,0:10:31.08,Default,,0,0,0,,{\i1}Then Ichika would praise me for it.
 Dialogue: 0,0:10:32.64,0:10:34.90,Default,,0,0,0,,Laura, that's a cute outfit.
-Dialogue: 0,0:10:36.12,0:10:37.84,Default,,0,0,0,,Only the clothes? 
+Dialogue: 0,0:10:36.12,0:10:37.84,Default,,0,0,0,,Only the clothes?
 Dialogue: 0,0:10:38.84,0:10:41.32,Default,,0,0,0,,Of course you're the cutest here.
 Dialogue: 0,0:10:41.60,0:10:43.92,Default,,0,0,0,,You idiot..
 Dialogue: 0,0:10:46.36,0:10:48.40,Default,,0,0,0,,How's it going Laura? You finished?
-Dialogue: 0,0:10:50.58,0:10:52.76,Default,,0,0,0,,You still have your uniform on.  
+Dialogue: 0,0:10:50.58,0:10:52.76,Default,,0,0,0,,You still have your uniform on.
 Dialogue: 0,0:10:54.09,0:10:55.22,Default,,0,0,0,,Charlotte...
-Dialogue: 0,0:10:56.88,0:10:59.58,Default,,0,0,0,,Don't tell me that you didn't like it. 
+Dialogue: 0,0:10:56.88,0:10:59.58,Default,,0,0,0,,Don't tell me that you didn't like it.
 Dialogue: 0,0:11:00.43,0:11:03.04,Default,,0,0,0,,No, that's not it.
-Dialogue: 0,0:11:04.12,0:11:07.54,Default,,0,0,0,,No not exactly, but I want something a bit cuter. 
+Dialogue: 0,0:11:04.12,0:11:07.54,Default,,0,0,0,,No not exactly, but I want something a bit cuter.
 Dialogue: 0,0:11:10.60,0:11:14.00,Default,,0,0,0,,Okay! You want something cute, right?
 Dialogue: 0,0:11:14.00,0:11:15.84,Default,,0,0,0,,So, what do you want?
 Dialogue: 0,0:11:15.84,0:11:20.08,Default,,0,0,0,,Let's see... something that's a little revealing would be nice.
@@ -299,9 +299,9 @@ Dialogue: 0,0:13:43.80,0:13:44.68,Default,,0,0,0,,Pardon me, you two!
 Dialogue: 0,0:13:47.40,0:13:48.30,Default,,0,0,0,,Want to work part-time?
 Dialogue: 0,0:13:49.16,0:13:49.48,Default,,0,0,0,,Huh?
 Dialogue: 0,0:13:57.34,0:14:00.32,Default,,0,0,0,,Why am I dressed as a butler?
-Dialogue: 0,0:14:00.32,0:14:03.14,Default,,0,0,0,,Come on, you're much cooler and handsome than those guys. 
+Dialogue: 0,0:14:00.32,0:14:03.14,Default,,0,0,0,,Come on, you're much cooler and handsome than those guys.
 Dialogue: 0,0:14:05.40,0:14:06.72,Default,,0,0,0,,Really?
-Dialogue: 0,0:14:08.20,0:14:10.66,Default,,0,0,0,,{\i1}I would have preferred a maid uniform too. 
+Dialogue: 0,0:14:08.20,0:14:10.66,Default,,0,0,0,,{\i1}I would have preferred a maid uniform too.
 Dialogue: 0,0:14:13.40,0:14:15.90,Default,,0,0,0,,Maybe I'm just this kind of person after all?
 Dialogue: 0,0:14:15.90,0:14:18.76,Default,,0,0,0,,Don't worry. You look really good in it!
 Dialogue: 0,0:14:18.76,0:14:20.44,Default,,0,0,0,,Y-You think so?
@@ -309,7 +309,7 @@ Dialogue: 0,0:14:24.08,0:14:26.06,Default,,0,0,0,,Welcome to Café @ Cruise!
 Dialogue: 0,0:14:28.14,0:14:29.10,Default,,0,0,0,,Thank you for waiting!
 Dialogue: 0,0:14:29.96,0:14:32.02,Default,,0,0,0,,Would you like black tea?
 Dialogue: 0,0:14:34.80,0:14:36.22,Default,,0,0,0,,Sure.
-Dialogue: 0,0:14:44.70,0:14:49.32,Default,,0,0,0,,If you have any requests, please call me. Ojou-Sama. 
+Dialogue: 0,0:14:44.70,0:14:49.32,Default,,0,0,0,,If you have any requests, please call me. Ojou-Sama.
 Dialogue: 0,0:14:56.92,0:14:58.30,Default,,0,0,0,,Don't move your hands!
 Dialogue: 0,0:14:58.92,0:15:00.22,Default,,0,0,0,,Keep it down!
 Dialogue: 0,0:15:02.96,0:15:05.66,Default,,0,0,0,,You're already surrounded!
@@ -338,7 +338,7 @@ Dialogue: 0,0:16:31.44,0:16:32.66,Default,,0,0,0,,Too slow. Die.
 Dialogue: 0,0:16:36.80,0:16:38.34,Default,,0,0,0,,All targets, capture complete!
 Dialogue: 0,0:16:39.39,0:16:39.39,Default,,0,0,0,,We're saved!
 Dialogue: 0,0:16:40.10,0:16:43.94,Default,,0,0,0,,Thank you, Maid and Butler!
-Dialogue: 0,0:16:44.40,0:16:49.00,Default,,0,0,0,,Laura, if it's found out that we're representative cadets, it'll be troublesome, so we should leave. 
+Dialogue: 0,0:16:44.40,0:16:49.00,Default,,0,0,0,,Laura, if it's found out that we're representative cadets, it'll be troublesome, so we should leave.
 Dialogue: 0,0:16:49.26,0:16:49.86,Default,,0,0,0,,Yeah. Let's leave it to the police.
 Dialogue: 0,0:16:55.30,0:16:59.24,Default,,0,0,0,,I'd rather blow this place sky high and die
 Dialogue: 0,0:16:59.24,0:17:02.24,Default,,0,0,0,,than get caught and spend the rest of my life in jail!
@@ -351,10 +351,10 @@ Dialogue: 0,0:17:31.88,0:17:36.14,Default,,0,0,0,,Oh, I'm so sorry, but we're al
 Dialogue: 0,0:17:37.28,0:17:38.44,Default,,0,0,0,,I see.
 Dialogue: 0,0:17:39.98,0:17:41.58,Default,,0,0,0,,Laura, you got anything in mind?
 Dialogue: 0,0:17:42.68,0:17:43.26,Default,,0,0,0,,Sure.
-Dialogue: 0,0:17:43.62,0:17:46.16,Default,,0,0,0,,Yeah, strawberry and blueberry please.  
+Dialogue: 0,0:17:43.62,0:17:46.16,Default,,0,0,0,,Yeah, strawberry and blueberry please.
 Dialogue: 0,0:17:47.98,0:17:49.74,Default,,0,0,0,,Sure thing. Thank you!
 Dialogue: 0,0:17:59.70,0:18:00.88,Default,,0,0,0,,This tastes good!
-Dialogue: 0,0:18:01.30,0:18:05.32,Default,,0,0,0,,Yeah. This is my first time eating a crepe, but I think it's delicious.    
+Dialogue: 0,0:18:01.30,0:18:05.32,Default,,0,0,0,,Yeah. This is my first time eating a crepe, but I think it's delicious.
 Dialogue: 0,0:18:09.06,0:18:10.74,Default,,0,0,0,,{\i1}I'll come here with Ichika next time.
 Dialogue: 0,0:18:10.72,0:18:13.16,Default,,0,0,0,,{\i1}It'd be great the mixed berry crepe was in stock then.
 Dialogue: 0,0:18:16.54,0:18:17.54,Default,,0,0,0,,Charlotte.
@@ -390,7 +390,7 @@ Dialogue: 0,0:19:53.74,0:19:57.00,Default,,0,0,0,,Why don't you say "Nyan", just
 Dialogue: 0,0:19:57.06,0:19:58.80,Default,,0,0,0,,I-I refuse!
 Dialogue: 0,0:19:58.80,0:20:01.34,Default,,0,0,0,,Why should I have to do stuff like that?
 Dialogue: 0,0:20:01.34,0:20:04.26,Default,,0,0,0,,What? But it'd be cute.
-Dialogue: 0,0:20:06.86,0:20:08.10,Default,,0,0,0,,C'mon, say it. Nyan. 
+Dialogue: 0,0:20:06.86,0:20:08.10,Default,,0,0,0,,C'mon, say it. Nyan.
 Dialogue: 0,0:20:12.36,0:20:14.16,Default,,0,0,0,,N-nyan.
 Dialogue: 0,0:20:14.16,0:20:16.12,Default,,0,0,0,,Laura, you're too cute!
 Dialogue: 0,0:20:17.74,0:20:19.10,Default,,0,0,0,,Yes! Come on in.
@@ -438,12 +438,12 @@ Dialogue: 0,0:23:42.02,0:23:43.66,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:23:56.90,0:23:59.14,Default,,0,0,0,,Ichika-san!
 Dialogue: 0,0:24:03.90,0:24:05.24,Default,,0,0,0,,You okay?
 Dialogue: 0,0:24:05.50,0:24:08.76,Default,,0,0,0,,I'm fine. Now, shall we hurry and head to the pool?
-Dialogue: 0,0:24:09.06,0:24:10.64,Default,,0,0,0,,Huh? But what about the others?
-Dialogue: 0,0:24:12.12,0:24:15.66,Default,,0,0,0,,T-They've been out for a while!
+Dialogue: 0,0:24:09.06,0:24:10.64,Default,,0,0,0,,But where's everyone else?
+Dialogue: 0,0:24:12.12,0:24:15.66,Default,,0,0,0,,Everyone's there already.
 Dialogue: 0,0:24:15.80,0:24:18.18,Default,,0,0,0,,So we should hurry up and go!
 Dialogue: 0,0:24:18.20,0:24:18.88,Default,,0,0,0,,O-Okay.
 Dialogue: 0,0:24:18.52,0:24:23.00,UpTop,,0,0,0,,Quickly! Quickly! Quickly! Quickly! Quickly! Quickly!
-Dialogue: 0,0:24:19.22,0:24:23.00,Default,,0,0,0,,I see you really want to go to the pool.
+Dialogue: 0,0:24:19.22,0:24:23.00,Default,,0,0,0,,I see, you're in a hurry to go in the pool.  
 Dialogue: 0,0:24:26.48,0:24:27.68,Default,,0,0,0,,All done!
 Dialogue: 0,0:24:28.92,0:24:30.44,Default,,0,0,0,,Then let's go!
 Dialogue: 0,0:24:30.64,0:24:34.68,Default,,0,0,0,,Cecilia's a nice person for buying us these, isn't she?
@@ -451,23 +451,23 @@ Dialogue: 0,0:24:34.82,0:24:36.00,Default,,0,0,0,,Indeed.
 Dialogue: 0,0:24:37.30,0:24:39.02,Default,,0,0,0,,Huh? Where is she?
 Dialogue: 0,0:24:39.02,0:24:41.10,Default,,0,0,0,,Come to think of it, I haven't seen her.
 Dialogue: 0,0:24:43.16,0:24:44.54,Default,,0,0,0,,You don't think...
-Dialogue: 0,0:24:48.00,0:24:49.50,Default,,0,0,0,,She set us up!
-Dialogue: 0,0:24:49.78,0:24:52.62,Default,,0,0,0,,Since it's come to this, \Nlet's split up and look for her!
-Dialogue: 0,0:24:57.18,0:25:00.60,Default,,0,0,0,,Summer pools are always so amazing!
-Dialogue: 0,0:25:01.84,0:25:06.72,Default,,0,0,0,,Hey, I haven't seen the others at all. \N Are you sure they're here?
+Dialogue: 0,0:24:48.00,0:24:49.50,Default,,0,0,0,,She tricked us!
+Dialogue: 0,0:24:49.78,0:24:52.62,Default,,0,0,0,,We need to split into two groups and look for them.
+Dialogue: 0,0:24:57.18,0:25:00.60,Default,,0,0,0,,Pools really are the best in the summer.
+Dialogue: 0,0:25:01.84,0:25:06.72,Default,,0,0,0,,Hey, I haven't seen anyone since just now, are you sure they're here?
 Dialogue: 0,0:25:06.76,0:25:07.84,Default,,0,0,0,,Gulp.
 Dialogue: 0,0:25:08.20,0:25:10.06,Default,,0,0,0,,T-That's odd, isn't it?
 Dialogue: 0,0:25:14.42,0:25:15.54,Default,,0,0,0,,Cecilia!
-Dialogue: 0,0:25:17.72,0:25:20.04,Default,,0,0,0,,Where the heck are those two?
-Dialogue: 0,0:25:20.02,0:25:21.72,Default,,0,0,0,,No good. They're not here either.
-Dialogue: 0,0:25:22.02,0:25:23.72,Default,,0,0,0,,Let's look over there then.
-Dialogue: 0,0:25:36.68,0:25:38.56,Default,,0,0,0,,What was that all of a sudden?!
+Dialogue: 0,0:25:17.72,0:25:20.04,Default,,0,0,0,, Where did they go?
+Dialogue: 0,0:25:20.02,0:25:21.72,Default,,0,0,0,, They're not here either.  
+Dialogue: 0,0:25:22.02,0:25:23.72,Default,,0,0,0,,Alright, let's look over there.
+Dialogue: 0,0:25:36.68,0:25:38.56,Default,,0,0,0,,What's with you all of a sudden?
 Dialogue: 0,0:25:38.56,0:25:41.02,Default,,0,0,0,,That really was close!
-Dialogue: 0,0:25:41.34,0:25:43.82,Default,,0,0,0,,Oh, Orimu sighted!
+Dialogue: 0,0:25:41.34,0:25:43.82,Default,,0,0,0,,+Oh it's Orimura.
 Dialogue: 0,0:25:44.94,0:25:46.64,Default,,0,0,0,,Hey there!
 Dialogue: 0,0:25:47.10,0:25:49.44,Default,,0,0,0,,Nohohon-san! You all came!
-Dialogue: 0,0:25:49.90,0:25:52.54,Default,,0,0,0,,Lot of girls from our school are here.
-Dialogue: 0,0:25:52.88,0:25:56.72,Default,,0,0,0,,Ahoy Captain, Cecilia came in a lewd swimsuit.
+Dialogue: 0,0:25:49.90,0:25:52.54,Default,,0,0,0,,Many of the girls from the IS Academy are here.  
+Dialogue: 0,0:25:52.88,0:25:56.72,Default,,0,0,0,,Ooh, captain, Cecelia's wearing a perverted swimsuit.
 Dialogue: 0,0:25:57.88,0:25:58.80,Default,,0,0,0,,She really did!
 Dialogue: 0,0:25:58.80,0:26:00.42,Default,,0,0,0,,How bold!
 Dialogue: 0,0:26:00.90,0:26:03.24,Default,,0,0,0,,How erotic, Cecilia!
@@ -480,70 +480,66 @@ Dialogue: 0,0:26:36.34,0:26:37.66,Default,,0,0,0,,Here, this way!
 Dialogue: 0,0:26:37.66,0:26:38.70,Default,,0,0,0,,W-Wait!
 Dialogue: 0,0:26:44.42,0:26:44.98,Default,,0,0,0,,Oh!
 Dialogue: 0,0:26:44.98,0:26:45.86,Default,,0,0,0,,What is it?
-Dialogue: 0,0:26:45.86,0:26:48.82,Default,,0,0,0,,They have a couple's slide.
+Dialogue: 0,0:26:45.86,0:26:48.82,Default,,0,0,0,,This is called the pair-slide course.  
 Dialogue: 0,0:26:48.82,0:26:50.78,Default,,0,0,0,,Wow, looks fun.
-Dialogue: 0,0:26:51.08,0:26:55.32,Default,,0,0,0,,You're really a lost cause. \NI'll slide with you if you ask me like that.
+Dialogue: 0,0:26:51.08,0:26:55.32,Default,,0,0,0,,We've got no choice.  I guess we can slide together.  
 Dialogue: 0,0:26:55.32,0:26:57.06,Default,,0,0,0,,That's unfair, Houki!
 Dialogue: 0,0:26:57.06,0:26:58.86,Default,,0,0,0,,Let's wager on Rock-Paper-Scissors!
 Dialogue: 0,0:26:58.86,0:27:00.32,Default,,0,0,0,,Fine with me.
 Dialogue: 0,0:27:01.98,0:27:03.86,Default,,0,0,0,,Rock-Paper-Scissors!
-Dialogue: 0,0:27:07.88,0:27:10.94,Default,,0,0,0,,Now, I'll explain how the couples slide works.
+Dialogue: 0,0:27:07.88,0:27:10.94,Default,,0,0,0,,Okay, let me explain the pair-slide. 
 Dialogue: 0,0:27:10.96,0:27:13.62,Default,,0,0,0,,First, the guy sits here.
-Dialogue: 0,0:27:13.94,0:27:15.20,Default,,0,0,0,,Uh, alright.
+Dialogue: 0,0:27:13.94,0:27:15.20,Default,,0,0,0,,Huh? Okay.
 Dialogue: 0,0:27:15.72,0:27:19.34,Default,,0,0,0,,Now, if the girl could sit between his legs.
 Dialogue: 0,0:27:19.34,0:27:20.60,Default,,0,0,0,,O-Okay!
 Dialogue: 0,0:27:22.26,0:27:23.78,Default,,0,0,0,,U-Um...
-Dialogue: 0,0:27:23.78,0:27:25.30,Default,,0,0,0,,How is this?
-Dialogue: 0,0:27:25.36,0:27:29.66,Default,,0,0,0,,And the boy must embrace the girl from behind.
+Dialogue: 0,0:27:23.78,0:27:25.30,Default,,0,0,0,,Um, like this?
+Dialogue: 0,0:27:25.36,0:27:29.66,Default,,0,0,0,,And then the guy holds the girl tightly from behind, like this.
 Dialogue: 0,0:27:29.64,0:27:30.36,Default,,0,0,0,,Embrace!
 Dialogue: 0,0:27:30.36,0:27:31.34,Default,,0,0,0,,Huh?
 Dialogue: 0,0:27:31.32,0:27:32.06,Default,,0,0,0,,Huh!?
 Dialogue: 0,0:27:32.42,0:27:33.36,Default,,0,0,0,,I see...
-Dialogue: 0,0:27:33.70,0:27:35.98,Default,,0,0,0,,Then Char, are you ready?
+Dialogue: 0,0:27:33.70,0:27:35.98,Default,,0,0,0,,Are you ready Charlotte?
 Dialogue: 0,0:27:35.98,0:27:37.88,Default,,0,0,0,,S-Sure, anytime!
 Dialogue: 0,0:27:39.42,0:27:40.38,Default,,0,0,0,,S-Sorry!
 Dialogue: 0,0:27:40.78,0:27:43.36,Default,,0,0,0,,N-No, it's fine...
-Dialogue: 0,0:27:43.66,0:27:47.94,Default,,0,0,0,,Geez, it's dangerous if you don't hold together close, okay?
+Dialogue: 0,0:27:43.66,0:27:47.94,Default,,0,0,0,,Come on, it's dangerous so you need to stay close together.
 Dialogue: 0,0:27:47.94,0:27:48.54,Default,,0,0,0,,What?!
 Dialogue: 0,0:27:50.96,0:27:53.28,Default,,0,0,0,,Well then, enjoy the ride!
 Dialogue: 0,0:28:06.98,0:28:08.38,Default,,0,0,0,,I-Ichika!!
-Dialogue: 0,0:28:08.38,0:28:09.38,Default,,0,0,0,,Not intentional!!
+Dialogue: 0,0:28:08.38,0:28:09.38,Default,,0,0,0,,It's not on purp-
 Dialogue: 0,0:28:20.60,0:28:21.72,Default,,0,0,0,,U-Um...
 Dialogue: 0,0:28:22.16,0:28:22.94,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:28:24.78,0:28:25.96,Default,,0,0,0,,Ichika, you perv.
-Dialogue: 0,0:28:26.80,0:28:28.80,Default,,0,0,0,,What? I told you it was unintentional, right?
-Dialogue: 0,0:28:28.78,0:28:30.18,Default,,0,0,0,,Blame physics!
+Dialogue: 0,0:28:26.80,0:28:28.80,Default,,0,0,0,,It wasn't on purpose!
+Dialogue: 0,0:28:28.78,0:28:30.18,Default,,0,0,0,,It was inevitable!
 Dialogue: 0,0:28:32.00,0:28:33.62,Default,,0,0,0,,You still touched them...
-Dialogue: 0,0:28:34.80,0:28:36.22,Default,,0,0,0,,What's the holdup, Ichika?
-Dialogue: 0,0:28:37.36,0:28:38.78,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:28:40.48,0:28:43.62,Default,,0,0,0,,Alright, I'll explain the couple's slide again.
-Dialogue: 0,0:28:44.06,0:28:49.64,Default,,0,0,0,,First, the boy will sit down,\N then the girl sits between his legs,
-Dialogue: 0,0:28:49.64,0:28:52.40,Default,,0,0,0,,and the guy embraces her tight!
+Dialogue: 0,0:28:34.80,0:28:36.22,Default,,0,0,0,,You're late, Ichika.  What are you doing?
+Dialogue: 0,0:28:40.48,0:28:43.62,Default,,0,0,0,,Alright, let me explain the pair-slide.
+Dialogue: 0,0:28:44.06,0:28:49.64,Default,,0,0,0,,First, the guy sits down.  Then, the girl sits between his legs and the guy grabs her from behind.  
 Dialogue: 0,0:28:52.96,0:28:54.40,Default,,0,0,0,,Say, Houki?
 Dialogue: 0,0:28:54.40,0:28:56.42,Default,,0,0,0,,Would you mind sitting behind me?
-Dialogue: 0,0:28:57.52,0:28:58.88,Default,,0,0,0,,Isn't it another way round?
-Dialogue: 0,0:28:59.90,0:29:03.58,Default,,0,0,0,,Um...well, the water's pretty rough,
-Dialogue: 0,0:29:03.58,0:29:06.90,Default,,0,0,0,,so it's probably better if I blocked it for you.
-Dialogue: 0,0:29:07.36,0:29:09.08,Default,,0,0,0,,I see. Okay.
-Dialogue: 0,0:29:10.02,0:29:11.38,Default,,0,0,0,,There we go.
+Dialogue: 0,0:28:57.52,0:28:58.88,Default,,0,0,0,,Isn't that backwards?
+Dialogue: 0,0:28:59.90,0:29:03.58,Default,,0,0,0,,Well the water's pretty strong; 
+Dialogue: 0,0:29:03.58,0:29:06.90,Default,,0,0,0,,it might be best for you to hide your face behind me.
+Dialogue: 0,0:29:10.02,0:29:11.38,Default,,0,0,0,,Alright, I got ya.
 Dialogue: 0,0:29:15.28,0:29:17.94,Default,,0,0,0,,Like this?
-Dialogue: 0,0:23:15.28,0:23:17.28,Default,,0,0,0,,It's safer if you sit a lot closer!
-Dialogue: 0,0:29:20.02,0:29:21.22,Default,,0,0,0,,Does this work?
+Dialogue: 0,0:23:15.28,0:23:17.28,Default,,0,0,0,,The tighter you hold on, the safer you are.  
+Dialogue: 0,0:29:20.02,0:29:21.22,Default,,0,0,0,,This alright?
 Dialogue: 0,0:29:21.50,0:29:22.70,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:29:23.76,0:29:25.58,Default,,0,0,0,,H-Hey...
 Dialogue: 0,0:29:27.48,0:29:29.48,Default,,0,0,0,,Then enjoy the ride!
-Dialogue: 0,0:29:37.48,0:29:39.88,Default,,0,0,0,,Wasn't that fast?
+Dialogue: 0,0:29:37.48,0:29:39.88,Default,,0,0,0,,That speed was great, wasn't it? 
 Dialogue: 0,0:29:41.24,0:29:42.72,Default,,0,0,0,,Y-Yeah...
-Dialogue: 0,0:29:44.10,0:29:46.28,Default,,0,0,0,,What's wrong, did you hurt yourself?
+Dialogue: 0,0:29:44.10,0:29:46.28,Default,,0,0,0,,What's wrong? Did you get hurt?
 Dialogue: 0,0:29:46.76,0:29:48.68,Default,,0,0,0,,No... umm...
-Dialogue: 0,0:29:48.68,0:29:52.02,Default,,0,0,0,,I was just thinking about how your back's gotten bigger...
-Dialogue: 0,0:29:53.42,0:29:55.16,Default,,0,0,0,,My back's what?
+Dialogue: 0,0:29:48.68,0:29:52.02,Default,,0,0,0,,Your back's...gotten bigger.
+Dialogue: 0,0:29:53.42,0:29:55.16,Default,,0,0,0,,What about my back?
 Dialogue: 0,0:29:55.16,0:29:58.52,UpTop,,0,0,0,,Ichika! Hurry and get up here!
 Dialogue: 0,0:29:58.82,0:30:00.22,Default,,0,0,0,,How many times do I have to do this?!
-Dialogue: 0,0:30:03.16,0:30:07.24,Default,,0,0,0,,Good grief, I didn't think I'd end up\N running into them here of all places.
-Dialogue: 0,0:30:07.82,0:30:11.68,Default,,0,0,0,,Orimura-sensei, are you sure\N you don't want to be where Ichika-kun is?
-Dialogue: 0,0:30:12.04,0:30:13.46,Default,,0,0,0,,He is your brother after all.
-Dialogue: 0,0:30:15.08,0:30:18.98,Default,,0,0,0,,I-I'll ruin my rare day off if I have to deal with them.
+Dialogue: 0,0:30:03.16,0:30:07.24,Default,,0,0,0,,Seriously, running into them even here.
+Dialogue: 0,0:30:07.82,0:30:11.68,Default,,0,0,0,,Orimura-sensei, is it okay that you aren't by Ichika-kun? He is your little brother.  
+Dialogue: 0,0:30:15.08,0:30:18.98,Default,,0,0,0,,This is my day off, if I mess with them it'll be a waste.
 Dialogue: 0,0:30:27.36,0:30:27.78,Default,,0,0,0,,What is it?
 Dialogue: 0,0:30:30.06,0:30:31.74,Default,,0,0,0,,Right. I'll head there right now.
 Dialogue: 0,0:30:32.92,0:30:34.98,Default,,0,0,0,,What happened? Is it an emergency?
@@ -1030,60 +1026,60 @@ Dialogue: 1,0:30:48.45,0:30:48.49,SIGN,,0,0,0,,{\an4\pos(348,-118.5)\fnBook Anti
 Dialogue: 1,0:30:48.45,0:30:48.49,SIGN,,0,0,0,,{\an5\pos(810,-84.5)\fnBook Antiqua\b1\fs80\bord4\blur5\c&H18311F&\3c&HC3CCEF&\3a&H0C&\1a&HFF&\frz350.3}Market
 Dialogue: 0,0:23:57.28,0:23:59.28,Default,,0,0,0,,
 Dialogue: 0,0:30:50.58,0:30:51.80,Default,,0,0,0,,Ichika!
-Dialogue: 0,0:30:59.04,0:31:01.24,Default,,0,0,0,,Wow, so pretty! What are these?
-Dialogue: 0,0:31:01.24,0:31:03.06,Default,,0,0,0,,You haven't seen these before?
-Dialogue: 0,0:31:03.54,0:31:05.40,Default,,0,0,0,,It's called goldfish scooping.
-Dialogue: 0,0:31:05.70,0:31:08.40,Default,,0,0,0,,You use this to scoop up the goldfish.
-Dialogue: 0,0:31:08.68,0:31:09.96,Default,,0,0,0,,Sounds fun!
-Dialogue: 0,0:31:09.96,0:31:11.58,Default,,0,0,0,,Ichika, teach me how to do it.
+Dialogue: 0,0:30:59.04,0:31:01.24,Default,,0,0,0,,So pretty! What are these?
+Dialogue: 0,0:31:01.24,0:31:03.06,Default,,0,0,0,,First time I've seen them.  
+Dialogue: 0,0:31:03.54,0:31:05.40,Default,,0,0,0,,It's called goldfish-catching.
+Dialogue: 0,0:31:05.70,0:31:08.40,Default,,0,0,0,,You use this to catch goldfish.
+Dialogue: 0,0:31:08.68,0:31:09.96,Default,,0,0,0,,Looks interesting!
+Dialogue: 0,0:31:09.96,0:31:11.58,Default,,0,0,0,,Ichika, teach me.  
 Dialogue: 0,0:31:11.62,0:31:12.46,Default,,0,0,0,,Yeah, sure.
-Dialogue: 0,0:31:12.46,0:31:13.82,Default,,0,0,0,,Teach me as well!
-Dialogue: 0,0:31:13.82,0:31:16.62,Default,,0,0,0,,Yeah yeah, in order though.
-Dialogue: 0,0:31:18.86,0:31:20.22,Default,,0,0,0,,You do this, and...
-Dialogue: 0,0:31:22.66,0:31:24.92,Default,,0,0,0,,game over if this happens.
-Dialogue: 0,0:31:25.18,0:31:27.14,Default,,0,0,0,,I-Is that right?
+Dialogue: 0,0:31:12.46,0:31:13.82,Default,,0,0,0,,Me as well.  
+Dialogue: 0,0:31:13.82,0:31:16.62,Default,,0,0,0,,Okay, okay.  \N+Wait your turn.\N
+Dialogue: 0,0:31:18.86,0:31:20.22,Default,,0,0,0,,Like this. 
+Dialogue: 0,0:31:22.66,0:31:24.92,Default,,0,0,0,,If this happens, you lose.
+Dialogue: 0,0:31:25.18,0:31:27.14,Default,,0,0,0,,R-really now?
 Dialogue: 0,0:31:27.14,0:31:28.42,Default,,0,0,0,,I-I get it now.
 Dialogue: 0,0:31:29.98,0:31:31.42,Default,,0,0,0,,What a beauty...
-Dialogue: 0,0:31:32.70,0:31:35.38,Default,,0,0,0,,S-Spare me the devil fish...
-Dialogue: 0,0:31:36.06,0:31:38.90,Default,,0,0,0,,Y-You eat the octopus?
-Dialogue: 0,0:31:38.90,0:31:40.84,Default,,0,0,0,,It's a traditional Japanese food.
-Dialogue: 0,0:31:41.12,0:31:43.00,Default,,0,0,0,,It's good! Try it, Laura!
-Dialogue: 0,0:31:44.42,0:31:45.94,Default,,0,0,0,,This isn't bad.
+Dialogue: 0,0:31:32.70,0:31:35.38,Default,,0,0,0,,Not the devil fish.
+Dialogue: 0,0:31:36.06,0:31:38.90,Default,,0,0,0,,You eat the octopus...  
+Dialogue: 0,0:31:38.90,0:31:40.84,Default,,0,0,0,,This is traditional Japanese food.
+Dialogue: 0,0:31:41.12,0:31:43.00,Default,,0,0,0,,Tasty, isn't it? See, Laura?
+Dialogue: 0,0:31:44.42,0:31:45.94,Default,,0,0,0,,This is pretty good.
 Dialogue: 0,0:31:46.24,0:31:47.94,Default,,0,0,0,,Delicious!
-Dialogue: 0,0:31:48.16,0:31:51.58,Default,,0,0,0,,This time I'll feed you, Houki!
+Dialogue: 0,0:31:48.16,0:31:51.58,Default,,0,0,0,,Now it's my turn to say "ahhn" at Houki.
 Dialogue: 0,0:31:51.58,0:31:53.02,Default,,0,0,0,,W-What?
-Dialogue: 0,0:31:53.02,0:31:55.58,Default,,0,0,0,,Ichika-san, open wide!
-Dialogue: 0,0:31:55.58,0:31:57.92,Default,,0,0,0,,Right there! Knock it off!
-Dialogue: 0,0:32:04.02,0:32:06.64,Default,,0,0,0,,Sniping is my pride and joy!
-Dialogue: 0,0:32:06.64,0:32:08.94,Default,,0,0,0,,That's a toy gun...
-Dialogue: 0,0:32:09.72,0:32:11.72,Default,,0,0,0,,Wow, you're good!
-Dialogue: 0,0:32:12.08,0:32:14.16,Default,,0,0,0,,I think I might have a shot at this.
-Dialogue: 0,0:32:14.70,0:32:18.04,Default,,0,0,0,,I did my share of shooting practice in the military too.
+Dialogue: 0,0:31:53.02,0:31:55.58,Default,,0,0,0,,Ichika-san, "ahh".  
+Dialogue: 0,0:31:55.58,0:31:57.92,Default,,0,0,0,,Hey, you there!
+Dialogue: 0,0:32:04.02,0:32:06.64,Default,,0,0,0,,No one can shoot sharper than I!  
+Dialogue: 0,0:32:06.64,0:32:08.94,Default,,0,0,0,,That's a toy gun, though...
+Dialogue: 0,0:32:09.72,0:32:11.72,Default,,0,0,0,,As one would expect. [TN: refers to Cecelia ]
+Dialogue: 0,0:32:12.08,0:32:14.16,Default,,0,0,0,,I'm also pretty good at this.
+Dialogue: 0,0:32:14.70,0:32:18.04,Default,,0,0,0,,I've had some marksmanship traning in the military, of course.
 Dialogue: 0,0:32:20.02,0:32:20.52,Default,,0,0,0,,Houki.
 Dialogue: 0,0:32:21.64,0:32:22.42,Default,,0,0,0,,What?
-Dialogue: 0,0:32:23.22,0:32:24.90,Default,,0,0,0,,Have you improved your shooting at all?
+Dialogue: 0,0:32:23.22,0:32:24.90,Default,,0,0,0,,Have you gotten better at shooting?
 Dialogue: 0,0:32:25.20,0:32:26.76,Default,,0,0,0,,What about you?
 Dialogue: 0,0:32:27.88,0:32:29.90,Default,,0,0,0,,I'm a close combat fighter.
 Dialogue: 0,0:32:31.36,0:32:32.30,Default,,0,0,0,,So am I.
 Dialogue: 0,0:32:32.82,0:32:34.56,Default,,0,0,0,,So it's fine to be bad at shooting.
 Dialogue: 0,0:32:35.32,0:32:36.02,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:32:38.26,0:32:39.08,Default,,0,0,0,,Damn.
-Dialogue: 0,0:32:43.30,0:32:45.90,Default,,0,0,0,,Yeah, that's a bit of a stretch.
-Dialogue: 0,0:32:45.90,0:32:49.28,Default,,0,0,0,,No, I'll take him down at least.
-Dialogue: 0,0:32:52.72,0:32:54.30,Default,,0,0,0,,We'll provide support fire, Laura.
-Dialogue: 0,0:32:54.30,0:32:56.14,Default,,0,0,0,,Can't be helped, now can it?
-Dialogue: 0,0:32:56.48,0:32:58.38,Default,,0,0,0,,Just this time, okay?
+Dialogue: 0,0:32:38.26,0:32:39.08,Default,,0,0,0,,Damnit.
+Dialogue: 0,0:32:43.30,0:32:45.90,Default,,0,0,0,,Oh, that might be a stretch.
+Dialogue: 0,0:32:45.90,0:32:49.28,Default,,0,0,0,,No, I have to defeat it!
+Dialogue: 0,0:32:52.72,0:32:54.30,Default,,0,0,0,,We'll cover you Laura.  
+Dialogue: 0,0:32:54.30,0:32:56.14,Default,,0,0,0,,We have no choice.  
+Dialogue: 0,0:32:56.48,0:32:58.38,Default,,0,0,0,,Well, only this once.  
 Dialogue: 0,0:32:58.38,0:32:59.32,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:32:59.32,0:33:01.88,Default,,0,0,0,,T-Then I'll join too!
-Dialogue: 0,0:33:03.86,0:33:05.04,Default,,0,0,0,,Aim!
-Dialogue: 0,0:33:05.86,0:33:07.52,Default,,0,0,0,,A simultaneous attack...
+Dialogue: 0,0:32:59.32,0:33:01.88,Default,,0,0,0,,Then I'll join the battle too.  
+Dialogue: 0,0:33:03.86,0:33:05.04,Default,,0,0,0,,Line up.
+Dialogue: 0,0:33:05.86,0:33:07.52,Default,,0,0,0,,Together.
 Dialogue: 0,0:33:07.52,0:33:08.64,Default,,0,0,0,,FIRE!
 Dialogue: 0,0:33:12.36,0:33:13.98,Default,,0,0,0,,We did it!
-Dialogue: 0,0:34:08.40,0:34:11.08,Default,,0,0,0,,It's the end of summer, isn't it?
-Dialogue: 0,0:34:31.20,0:34:34.36,Default,,0,0,0,,I think it's time for me, Sarashiki Tatenashi,
-Dialogue: 0,0:34:34.38,0:34:36.22,Default,,0,0,0,,to take the stage.
+Dialogue: 0,0:34:08.40,0:34:11.08,Default,,0,0,0,,The summer is over, huh?
+Dialogue: 0,0:34:31.20,0:34:34.36,Default,,0,0,0,,It looks like it's my debut.
+Dialogue: 0,0:34:34.38,0:34:36.22,Default,,0,0,0,,I am Tatenashi Sarashiki.
 Dialogue: 0,0:34:43.20,0:34:45.92,EDRoomaji,,0,0,0,,{\fad(200,200)\be1}takaku motto Beautiful Sky
-Dialogue: 0,0:34:43.20,0:34:45.92,EDEnglish,,0,0,0,,{\fad(200,200)\be1}Let's go even higher into the beautiful sky
+Dialogue: 0,0:34:43.20,0:34:45.92,EDEnglish,,0,0,0,,{\fad(200,200)\be1}Go higher, gaze up through the beautiful sky,
 Dialogue: 0,0:34:45.92,0:34:48.98,EDRoomaji,,0,0,0,,{\fad(200,200)\be1}suki tooru manazashi e
 Dialogue: 0,0:34:45.92,0:34:48.98,EDEnglish,,0,0,0,,{\fad(200,200)\be1}Our gaze will make it all the way through
 Dialogue: 0,0:34:48.98,0:34:53.18,EDRoomaji,,0,0,0,,{\fad(200,200)\be1}mamoritai kagayaki ga kyou mo
