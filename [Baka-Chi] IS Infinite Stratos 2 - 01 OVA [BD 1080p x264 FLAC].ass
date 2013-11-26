@@ -6,14 +6,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
-Scroll Position: 234
-Active Line: 249
+Scroll Position: 486
+Active Line: 492
 Video Zoom Percent: 0.5
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Video File: [ReinForce] IS_ Infinite Stratos 2 - 01 (BDRip 1920x1080 x264 FLAC).mkv
 Video Aspect Ratio: c1.77778
-Video Position: 20566
+Video Position: 44602
 Audio URI: [ReinForce] IS_ Infinite Stratos 2 - 01 (BDRip 1920x1080 x264 FLAC).mkv
 Collisions: Normal
 ScaledBorderAndShadow: yes
@@ -29,7 +29,7 @@ Style: Copy of Ep Title,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&
 Style: On Top,undinaru,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,80,0
 Style: Copy of OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,27,27,27,0
 Style: SIGN,arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,10,10,10,1
-Style: UpTop,UnDinaru,52,&H00FFFFFF,&H000000FF,&H0060380B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,80,1
+Style: UpTop,UnDinaru,60,&H00FFFFFF,&H000000FF,&H0060380B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,80,1
 Style: OPRoomaji,Andika,72,&H00FFFFFF,&H00C3C3FF,&H006B00A4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,35,30,35,1
 Style: OPEnglish,Andika,72,&H00FFFFFF,&H00ABABFF,&H006F00A9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,3,30,35,35,1
 Style: EDRoomaji,Finger Paint,70,&H00FFFFFF,&H00D9D18B,&H00A72A00,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,35,10,35,1
@@ -168,12 +168,12 @@ Dialogue: 0,0:06:12.10,0:06:13.00,Default,,0,0,0,,Ichika-san!
 Dialogue: 0,0:06:14.60,0:06:15.66,Default,,0,0,0,,You can't!
 Dialogue: 0,0:06:15.66,0:06:17.22,Default,,0,0,0,,We shouldn't do that in a place like this!
 Dialogue: 0,0:06:18.24,0:06:20.30,Default,,0,0,0,,Cecilia? Cecilia?
-Dialogue: 0,0:06:21.64,0:06:25.59,Default,,0,0,0,,Huh? I'm alright. I just felt a little dizzy for a second.
+Dialogue: 0,0:06:21.64,0:06:25.59,Default,,0,0,0,,Ah, I-I'm alright. I just felt a little dizzy for a second.
 Dialogue: 0,0:06:26.08,0:06:27.76,Default,,0,0,0,,Oh? I'm glad to hear.
 Dialogue: 0,0:06:28.66,0:06:30.60,Default,,0,0,0,,By the way, would you like to go to this tomorrow?
 Dialogue: 0,0:06:32.26,0:06:34.50,Default,,0,0,0,,Oh my! Going out with you, Ichika-san?
 Dialogue: 0,0:06:35.10,0:06:39.16,Default,,0,0,0,,I, Cecilia Alcott, will be prepared for anything!
-Dialogue: 0,0:06:41.82,0:06:45.16,Default,,0,0,0,,Not this again. They aren't aware enough of their position as a bride.
+Dialogue: 0,0:06:41.82,0:06:45.16,Default,,0,0,0,,Geez. He seems to be totally unaware of his position as my bride.
 Dialogue: 0,0:06:45.76,0:06:47.36,Default,,0,0,0,,Something wrong, Laura?
 Dialogue: 0,0:06:50.86,0:06:52.44,Default,,0,0,0,,No, it's nothing.
 Dialogue: 0,0:06:53.60,0:06:58.18,Default,,0,0,0,,Oh yeah! Laura, if you've got some time today,\N would you like to go clothes shopping with me?
@@ -188,31 +188,31 @@ Dialogue: 0,0:07:18.30,0:07:19.72,Default,,0,0,0,,S-Sure thing.
 Dialogue: 0,0:07:22.44,0:07:23.10,Default,,0,0,0,,What do you think?
 Dialogue: 0,0:07:24.04,0:07:26.08,Default,,0,0,0,,These clothes are for going out.
 Dialogue: 0,0:07:26.70,0:07:28.56,Default,,0,0,0,,So you're still wearing a uniform, huh?
-Dialogue: 0,0:07:28.68,0:07:32.89,Default,,0,0,0,,Hey, hey, ever heard of Seaside Park's Dream Crêpes?
+Dialogue: 0,0:07:28.68,0:07:32.89,Default,,0,0,0,,Hey, hey, have you ever heard of Seaside Park's Dream Crêpes?
 Dialogue: 0,0:07:33.18,0:07:34.42,Default,,0,0,0,,I have, I have!
-Dialogue: 0,0:07:34.64,0:07:37.16,Default,,0,0,0,,If you eat a mixed-berry one with the person you like
+Dialogue: 0,0:07:34.64,0:07:37.16,Default,,0,0,0,,If you share a mixed-berry one with the person you like,
 Dialogue: 0,0:07:37.16,0:07:38.66,Default,,0,0,0,,your love will come true!
 Dialogue: 0,0:07:38.66,0:07:41.92,Default,,0,0,0,,Right! But it's always sold out.
 Dialogue: 0,0:07:42.02,0:07:45.42,Default,,0,0,0,,{\i1}Love will come true...Mixed-berry?
 Dialogue: 0,0:07:55.42,0:07:56.72,Default,,0,0,0,,Cold!
 Dialogue: 0,0:07:59.82,0:08:05.10,Default,,0,0,0,,Aw, summer break is ending tomorrow,\Nand I still haven't made any memories with Ichika...
-Dialogue: 0,0:08:06.66,0:08:09.86,Default,,0,0,0,,I mean, he's why I chose to\N stay here instead of going back home.
-Dialogue: 0,0:08:10.20,0:08:12.74,Default,,0,0,0,,I stayed here instead of flying home, so I wish he'd initiate at least once.
+Dialogue: 0,0:08:06.66,0:08:09.86,Default,,0,0,0,,I mean, he's the reason I chose to\N stay here instead of going back home.
+Dialogue: 0,0:08:10.20,0:08:12.74,Default,,0,0,0,,I really wish he'd initiate at least once.
 Dialogue: 0,0:08:12.90,0:08:13.96,Default,,0,0,0,,Hey, Rin!
 Dialogue: 0,0:08:14.16,0:08:16.12,Default,,0,0,0,,What? Ichika?!
 Dialogue: 0,0:08:16.20,0:08:17.04,Default,,0,0,0,,I'm coming in!
 Dialogue: 0,0:08:16.45,0:08:18.50,Default,,0,0,0,,W-w-wait a second!
 Dialogue: 0,0:08:37.20,0:08:40.44,Default,,0,0,0,,So which do you want Laura, skirt or pants?
-Dialogue: 0,0:08:40.50,0:08:41.80,Default,,0,0,0,,Either i—
-Dialogue: 0,0:08:41.80,0:08:44.50,Default,,0,0,0,,Don't say either, okay?
+Dialogue: 0,0:08:40.50,0:08:41.80,Default,,0,0,0,,Either one—
+Dialogue: 0,0:08:41.80,0:08:44.50,Default,,0,0,0,,Don't say "either one," okay?
 Dialogue: 0,0:08:45.20,0:08:48.70,Default,,0,0,0,,I swear Laura, you're just like Ichika when \N it comes to that kind of stuff.
 Dialogue: 0,0:08:48.70,0:08:50.70,Default,,0,0,0,,It's a good thing for couples to be similar.
-Dialogue: 0,0:08:51.96,0:08:53.84,Default,,0,0,0,,First we'll get something for autumn-
+Dialogue: 0,0:08:51.96,0:08:53.84,Default,,0,0,0,,First we'll get something for autumn—
 Dialogue: 0,0:08:53.84,0:08:55.82,Default,,0,0,0,,Wait! I don't need autumn clothes just yet.
 Dialogue: 0,0:08:55.82,0:08:57.24,Default,,0,0,0,,Why?
 Dialogue: 0,0:08:57.24,0:08:58.36,Default,,0,0,0,,It's still summer.
-Dialogue: 0,0:08:58.36,0:09:00.98,Default,,0,0,0,,I can buy autumn wear in the autumn.
-Dialogue: 0,0:09:01.00,0:09:05.90,Default,,0,0,0,,You know, girls are supposed to \N get clothes a season ahead.
+Dialogue: 0,0:08:58.36,0:09:00.98,Default,,0,0,0,,I can buy autumn clothes in the autumn.
+Dialogue: 0,0:09:01.00,0:09:05.90,Default,,0,0,0,,You know, girls are supposed to \N get clothes a season in advance.
 Dialogue: 0,0:09:05.90,0:09:07.18,Default,,0,0,0,,Really?
 Dialogue: 0,0:09:08.06,0:09:13.80,Default,,0,0,0,,I guess it's too late to get equipment\Nafter a war starts. Is that what you mean?
 Dialogue: 0,0:09:13.80,0:09:15.80,Default,,0,0,0,,S-sure...
@@ -220,28 +220,28 @@ Dialogue: 0,0:09:15.80,0:09:18.10,Default,,0,0,0,,Okay, let's just look at every
 Dialogue: 0,0:09:19.20,0:09:20.26,Default,,0,0,0,,Welcome.
 Dialogue: 0,0:09:26.34,0:09:28.40,Default,,0,0,0,,Perfect silver, and blonde too!
 Dialogue: 0,0:09:29.46,0:09:30.42,Default,,0,0,0,,I mean...
-Dialogue: 0,0:09:30.98,0:09:34.92,Default,,0,0,0,,Could I interest you in the newest clothing line?
+Dialogue: 0,0:09:30.98,0:09:34.92,Default,,0,0,0,,C-could I interest you in the newest clothing line?
 Dialogue: 0,0:09:37.38,0:09:40.08,Default,,0,0,0,,Whoa, it's light and slightly transparent.
 Dialogue: 0,0:09:40.84,0:09:41.82,Default,,0,0,0,,What do you think, Laura?
 Dialogue: 0,0:09:44.60,0:09:45.72,Default,,0,0,0,,White is...
 Dialogue: 0,0:09:47.98,0:09:51.40,Default,,0,0,0,,It's not bad, but I'm already wearing white.
 Dialogue: 0,0:09:52.50,0:09:54.66,Default,,0,0,0,,Since we're here, why don't you try it on?
-Dialogue: 0,0:09:55.26,0:09:56.94,Default,,0,0,0,,No thanks, it'd be a hass—
+Dialogue: 0,0:09:55.26,0:09:56.94,Default,,0,0,0,,Nah, it'd be a hass—
 Dialogue: 0,0:09:56.94,0:09:59.46,Default,,0,0,0,,Not a hassle at all!
 Dialogue: 0,0:10:05.64,0:10:07.86,Default,,0,0,0,,{\i1}I may be wrong, but maybe...
 Dialogue: 0,0:10:11.20,0:10:14.38,Default,,0,0,0,,{\i1}I'm not attractive to boys.
 Dialogue: 0,0:10:20.06,0:10:21.10,Default,,0,0,0,,How ridiculous.
-Dialogue: 0,0:10:23.74,0:10:26.72,Default,,0,0,0,,{\i1}If I was going to get one, it might as well have been something cute.
-Dialogue: 0,0:10:27.50,0:10:30.08,Default,,0,0,0,,{\i1}Then Ichika would praise me for it.
+Dialogue: 0,0:10:23.74,0:10:26.72,Default,,0,0,0,,{\i1}If I were to get one, it might as well be something cute.
+Dialogue: 0,0:10:27.50,0:10:30.08,Default,,0,0,0,,{\i1}Then Ichika might compliment me for it.
 Dialogue: 0,0:10:31.64,0:10:33.90,Default,,0,0,0,,Laura, that's a cute outfit.
 Dialogue: 0,0:10:35.12,0:10:36.84,Default,,0,0,0,,Just...the clothes?
-Dialogue: 0,0:10:37.84,0:10:40.32,Default,,0,0,0,,Of course you're the cutest here.
-Dialogue: 0,0:10:40.60,0:10:42.92,Default,,0,0,0,,You idiot...
+Dialogue: 0,0:10:37.84,0:10:40.32,Default,,0,0,0,,Of course you're the cutest one.
+Dialogue: 0,0:10:40.60,0:10:42.92,Default,,0,0,0,,Y-you idiot...
 Dialogue: 0,0:10:45.36,0:10:47.40,Default,,0,0,0,,How's it going Laura? You finished?
 Dialogue: 0,0:10:49.58,0:10:51.76,Default,,0,0,0,,You still have your uniform on.
 Dialogue: 0,0:10:53.09,0:10:54.22,Default,,0,0,0,,Charlotte...
 Dialogue: 0,0:10:55.88,0:10:58.58,Default,,0,0,0,,Um, maybe it didn't quite suit you?
-Dialogue: 0,0:10:59.43,0:11:02.04,Default,,0,0,0,,No, not exactly...
+Dialogue: 0,0:10:59.43,0:11:02.04,Default,,0,0,0,,No, that's not exactly it...
 Dialogue: 0,0:11:03.12,0:11:06.54,Default,,0,0,0,,But...maybe something cuter would be better.
 Dialogue: 0,0:11:09.60,0:11:13.00,Default,,0,0,0,,Okay! You want something cute, right?
 Dialogue: 0,0:11:13.00,0:11:14.84,Default,,0,0,0,,So, what do you want?
@@ -250,12 +250,12 @@ Dialogue: 0,0:11:19.22,0:11:19.96,Default,,0,0,0,,Leave it to me!
 Dialogue: 0,0:11:25.94,0:11:26.64,Default,,0,0,0,,Whoa, she's pretty...
 Dialogue: 0,0:11:27.38,0:11:28.80,Default,,0,0,0,,She looks like a fairy.
 Dialogue: 0,0:11:29.36,0:11:29.82,Default,,0,0,0,,Here, Laura.
-Dialogue: 0,0:11:30.82,0:11:33.54,Default,,0,0,0,,Getting the shoes out too huh? I'm surprised.
+Dialogue: 0,0:11:30.82,0:11:33.54,Default,,0,0,0,,We're getting shoes, too? That's surprising.
 Dialogue: 0,0:11:33.78,0:11:34.60,Default,,0,0,0,,Might as well.
 Dialogue: 0,0:11:44.26,0:11:45.40,Default,,0,0,0,,Are you okay?
 Dialogue: 0,0:11:45.48,0:11:46.62,Default,,0,0,0,,S-Sorry.
 Dialogue: 0,0:11:46.50,0:11:47.64,UpTop,,0,0,0,,Should I take a photo of this?
-Dialogue: 0,0:11:47.72,0:11:49.02,UpTop,,0,0,0,,M-Me too!
+Dialogue: 0,0:11:47.72,0:11:49.02,UpTop,,0,0,0,,M-me too!
 Dialogue: 0,0:11:50.78,0:11:51.98,Default,,0,0,0,,You're welcome.
 Dialogue: 0,0:11:57.53,0:11:59.03,SIGN,,0,0,0,,{\pos(990,736)\c&H3E393B&\fax-0.25\blur1.5\fnLeviReBrushed\b1\fs80\3c&H9F9FAE&}NEVER FALTER
 Dialogue: 0,0:12:05.04,0:12:07.48,Default,,0,0,0,,I am both aware...
@@ -276,7 +276,7 @@ Dialogue: 0,0:13:16.20,0:13:19.34,Default,,0,0,0,,It's kinda last minute, \Nso y
 Dialogue: 0,0:13:19.34,0:13:20.90,Default,,0,0,0,,Sounds good to me!
 Dialogue: 0,0:13:24.52,0:13:25.54,Default,,0,0,0,,Thank you for waiting.
 Dialogue: 0,0:13:26.72,0:13:27.56,Default,,0,0,0,,I'm tired.
-Dialogue: 0,0:13:27.84,0:13:30.46,Default,,0,0,0,,You should've kept it on.
+Dialogue: 0,0:13:27.84,0:13:30.46,Default,,0,0,0,,You should've kept that outfit on.
 Dialogue: 0,0:13:31.02,0:13:35.02,Default,,0,0,0,,Um, well...it's like...\N I didn't want to get it dirty.
 Dialogue: 0,0:13:37.10,0:13:40.02,Default,,0,0,0,,Or could it be you just wanted Ichika to \Nbe the first person to see it?
 Dialogue: 0,0:13:40.50,0:13:42.50,Default,,0,0,0,,That's not true at all!
@@ -287,7 +287,7 @@ Dialogue: 0,0:13:48.16,0:13:48.48,Default,,0,0,0,,Huh?
 Dialogue: 0,0:13:56.34,0:13:59.32,Default,,0,0,0,,Why am I dressed as a butler?
 Dialogue: 0,0:13:59.32,0:14:04.10,Default,,0,0,0,,Come on, you're much cooler and handsomer than those guys.
 Dialogue: 0,0:14:04.40,0:14:05.72,Default,,0,0,0,,Really?
-Dialogue: 0,0:14:07.20,0:14:09.66,Default,,0,0,0,,{\i1}I would have preferred a maid uniform too.
+Dialogue: 0,0:14:07.20,0:14:09.66,Default,,0,0,0,,{\i1}I would have preferred a maid uniform though...
 Dialogue: 0,0:14:12.40,0:14:14.90,Default,,0,0,0,,Maybe I'm just this kind of person after all?
 Dialogue: 0,0:14:14.90,0:14:17.76,Default,,0,0,0,,Don't worry. You look really good in it!
 Dialogue: 0,0:14:17.76,0:14:19.44,Default,,0,0,0,,Y-you think so?
@@ -295,14 +295,14 @@ Dialogue: 0,0:14:23.08,0:14:25.06,Default,,0,0,0,,Welcome to Café @ Cruise!
 Dialogue: 0,0:14:27.14,0:14:28.10,Default,,0,0,0,,Thank you for waiting!
 Dialogue: 0,0:14:28.96,0:14:31.02,Default,,0,0,0,,Would you like black tea?
 Dialogue: 0,0:14:33.80,0:14:35.22,Default,,0,0,0,,Sure.
-Dialogue: 0,0:14:43.70,0:14:48.32,Default,,0,0,0,,If you have any requests, please let me know, Miladies.
+Dialogue: 0,0:14:43.70,0:14:48.32,Default,,0,0,0,,If you ladies have any requests, please let me know.
 Dialogue: 0,0:14:55.92,0:14:57.30,Default,,0,0,0,,Don't move your hands!
 Dialogue: 0,0:14:57.92,0:14:59.22,Default,,0,0,0,,Keep it down!
 Dialogue: 0,0:15:01.96,0:15:04.66,Default,,0,0,0,,You're already surrounded!
 Dialogue: 0,0:15:04.66,0:15:07.24,Default,,0,0,0,,Come out quietly!
 Dialogue: 0,0:15:07.64,0:15:11.38,Default,,0,0,0,,If you want these hostages out alive, get us a car ready!
-Dialogue: 0,0:15:11.38,0:15:14.92,Default,,0,0,0,,Make sure to leave off any tracking devices too!
-Dialogue: 0,0:15:18.78,0:15:20.32,Default,,0,0,0,,They're afraid.
+Dialogue: 0,0:15:11.38,0:15:14.92,Default,,0,0,0,,And they'd better damn well not have any tracking devices!
+Dialogue: 0,0:15:18.78,0:15:20.32,Default,,0,0,0,,Heh heh, they're pissin' their pants.
 Dialogue: 0,0:15:22.20,0:15:22.62,Default,,0,0,0,,Hey!
 Dialogue: 0,0:15:23.54,0:15:24.44,Default,,0,0,0,,You there!
 Dialogue: 0,0:15:24.60,0:15:27.22,Default,,0,0,0,,I'm thirsty. Bring me the menu.
@@ -324,9 +324,9 @@ Dialogue: 0,0:16:30.44,0:16:31.66,Default,,0,0,0,,Too slow. Die.
 Dialogue: 0,0:16:35.80,0:16:37.34,Default,,0,0,0,,All targets, capture complete!
 Dialogue: 0,0:16:38.39,0:16:38.39,Default,,0,0,0,,We're saved!
 Dialogue: 0,0:16:39.10,0:16:42.94,Default,,0,0,0,,Thank you, Maid and Butler!
-Dialogue: 0,0:16:43.40,0:16:48.91,Default,,0,0,0,,Laura, if find out we're Representative Cadets,\Nwe'll be in trouble, so we should leave.
+Dialogue: 0,0:16:43.40,0:16:48.91,Default,,0,0,0,,Laura, if they find out we're Representative Cadets,\Nwe'll be in trouble, so we should leave.
 Dialogue: 0,0:16:49.79,0:16:51.70,Default,,0,0,0,,Yeah. Let's leave it to the police.
-Dialogue: 0,0:16:54.30,0:16:58.24,Default,,0,0,0,,I'd rather blow this place sky high and die
+Dialogue: 0,0:16:54.30,0:16:58.24,Default,,0,0,0,,I'd rather blow this place to pieces and die
 Dialogue: 0,0:16:58.24,0:17:01.24,Default,,0,0,0,,than get caught and spend the rest of my life in jail!
 Dialogue: 0,0:17:17.34,0:17:18.72,Default,,0,0,0,,Checkmate!
 Dialogue: 0,0:17:19.10,0:17:20.10,Default,,0,0,0,,You want more?
@@ -335,9 +335,9 @@ Dialogue: 0,0:17:26.44,0:17:27.38,Default,,0,0,0,,Excuse me!
 Dialogue: 0,0:17:27.80,0:17:30.22,Default,,0,0,0,,Two crêpes please, mixed-berry flavor.
 Dialogue: 0,0:17:30.88,0:17:35.14,Default,,0,0,0,,Oh, I'm so sorry, but we're already sold out today!
 Dialogue: 0,0:17:36.28,0:17:37.44,Default,,0,0,0,,I see.
-Dialogue: 0,0:17:38.98,0:17:40.58,Default,,0,0,0,,Laura, you got anything in mind?
+Dialogue: 0,0:17:38.98,0:17:40.58,Default,,0,0,0,,Laura, you know what you want?
 Dialogue: 0,0:17:41.68,0:17:42.26,Default,,0,0,0,,Sure.
-Dialogue: 0,0:17:42.62,0:17:45.16,Default,,0,0,0,,Yeah, strawberry and blueberry please.
+Dialogue: 0,0:17:42.62,0:17:45.16,Default,,0,0,0,,Well then, strawberry and blueberry please.
 Dialogue: 0,0:17:46.98,0:17:48.74,Default,,0,0,0,,Sure. Thank you very much!
 Dialogue: 0,0:17:58.70,0:17:59.88,Default,,0,0,0,,Hey, this is good!
 Dialogue: 0,0:18:00.30,0:18:05.21,Default,,0,0,0,,Yeah, it is. This is my first time eating a crêpe, but I think it's delicious.
@@ -353,13 +353,13 @@ Dialogue: 0,0:18:31.26,0:18:32.70,Default,,0,0,0,,Both of my hands are full.
 Dialogue: 0,0:18:33.34,0:18:34.46,Default,,0,0,0,,Don't worry about it.
 Dialogue: 0,0:18:34.84,0:18:37.44,Default,,0,0,0,,Here, you can have a bite of my crêpe.
 Dialogue: 0,0:18:42.50,0:18:44.06,Default,,0,0,0,,T-Thanks.
-Dialogue: 0,0:18:45.18,0:18:48.40,Default,,0,0,0,,Oh, by the way, about the crepe shop...
+Dialogue: 0,0:18:45.18,0:18:48.40,Default,,0,0,0,,Oh, by the way, about the crêpe shop...
 Dialogue: 0,0:18:48.40,0:18:50.20,Default,,0,0,0,,There's no mixed-berry flavor there.
 Dialogue: 0,0:18:50.76,0:18:51.30,Default,,0,0,0,,What?
 Dialogue: 0,0:18:51.30,0:18:52.86,Default,,0,0,0,,It wasn't even on the menu.
 Dialogue: 0,0:18:53.38,0:18:57.50,Default,,0,0,0,,Not to mention, I didn't see any sauce\N  in the kitchen that would've been used for it.
-Dialogue: 0,0:18:57.76,0:19:00.50,Default,,0,0,0,,I-Is that so? You've got a good eye.
-Dialogue: 0,0:19:00.82,0:19:03.18,Default,,0,0,0,,But you still got to have mixed berry, didn't you?
+Dialogue: 0,0:18:57.76,0:19:00.50,Default,,0,0,0,,I-is that so? You're very observant.
+Dialogue: 0,0:19:00.82,0:19:03.18,Default,,0,0,0,,But you still got to have mixed-berry, didn't you?
 Dialogue: 0,0:19:05.08,0:19:08.06,Default,,0,0,0,,I see! Strawberries and blueberries!
 Dialogue: 0,0:19:08.76,0:19:09.70,Default,,0,0,0,,That's right.
 Dialogue: 0,0:19:12.42,0:19:13.68,Default,,0,0,0,,I see.
@@ -368,15 +368,15 @@ Dialogue: 0,0:19:19.58,0:19:24.02,Default,,0,0,0,,Eating a mixed-berry crêpe wi
 Dialogue: 0,0:19:27.08,0:19:28.86,Default,,0,0,0,,What...is this?
 Dialogue: 0,0:19:34.78,0:19:36.78,Default,,0,0,0,,Are you sure these are pajamas?
 Dialogue: 0,0:19:37.96,0:19:39.20,Default,,0,0,0,,So cute!
-Dialogue: 0,0:19:39.36,0:19:42.04,Default,,0,0,0,,Laura, you look so good in it!
+Dialogue: 0,0:19:39.36,0:19:42.04,Default,,0,0,0,,Laura, you look really good in it!
 Dialogue: 0,0:19:44.04,0:19:46.74,Default,,0,0,0,,Don't hold me like that! It's hard to move!
 Dialogue: 0,0:19:47.44,0:19:48.52,Default,,0,0,0,,Nope.
-Dialogue: 0,0:19:48.54,0:19:52.30,Default,,0,0,0,,Cats are supposed sit nice and quietly on people's laps.
+Dialogue: 0,0:19:48.54,0:19:52.30,Default,,0,0,0,,Cats are supposed sit nice and quiet on people's laps.
 Dialogue: 0,0:19:52.74,0:19:56.00,On Top,,0,0,0,,Note: In Japanese, "nyan" is the sound of a cat's meow.
 Dialogue: 0,0:19:52.74,0:19:56.00,Default,,0,0,0,,Why don't you say "nyan" to get into character?
 Dialogue: 0,0:19:56.06,0:19:57.80,Default,,0,0,0,,I-I refuse!
-Dialogue: 0,0:19:57.80,0:20:00.34,Default,,0,0,0,,Why should I have to do stuff like that?
-Dialogue: 0,0:20:00.34,0:20:03.26,Default,,0,0,0,,What? But it'd be cute.
+Dialogue: 0,0:19:57.80,0:20:00.34,Default,,0,0,0,,Why do I have to do stuff like that?
+Dialogue: 0,0:20:00.34,0:20:03.26,Default,,0,0,0,,Huh? Because it'd be cute!
 Dialogue: 0,0:20:03.68,0:20:07.10,Default,,0,0,0,,C'mon, c'mon, say it. "Nyan."
 Dialogue: 0,0:20:11.36,0:20:13.16,Default,,0,0,0,,Ny-nyan.
 Dialogue: 0,0:20:13.16,0:20:15.12,Default,,0,0,0,,Laura, you're too cute!
@@ -385,8 +385,8 @@ Dialogue: 0,0:20:19.40,0:20:20.16,Default,,0,0,0,,Hey there!
 Dialogue: 0,0:20:22.72,0:20:24.32,Default,,0,0,0,,Those are some unusual outfits.
 Dialogue: 0,0:20:24.32,0:20:26.32,Default,,0,0,0,,A black cat and a white cat.
 Dialogue: 0,0:20:26.52,0:20:29.78,Default,,0,0,0,,The two of you look, how do I put it, interesting....
-Dialogue: 0,0:20:29.78,0:20:30.80,Default,,0,0,0,,and rather cute!
-Dialogue: 0,0:20:31.02,0:20:33.08,Default,,0,0,0,,C-Cute?
+Dialogue: 0,0:20:29.78,0:20:30.80,Default,,0,0,0,,...and rather cute!
+Dialogue: 0,0:20:31.02,0:20:33.08,Default,,0,0,0,,C-cute?
 Dialogue: 0,0:20:33.46,0:20:37.34,Default,,0,0,0,,R-really? So we're cute!
 Dialogue: 0,0:20:38.48,0:20:42.18,Default,,0,0,0,,If you say so...then it's not so bad.
 Dialogue: 0,0:20:42.36,0:20:43.96,Default,,0,0,0,,I'll wear it every now and then.
@@ -415,11 +415,11 @@ Dialogue: 0,0:22:52.92,0:22:56.22,Default,,0,0,0,,{\i1}Ichika was surprisingly a
 Dialogue: 0,0:22:56.84,0:23:01.00,Default,,0,0,0,,{\i1}He's so helpless, getting flustered asking me on a date.
 Dialogue: 0,0:23:14.58,0:23:16.36,Default,,0,0,0,,Hey, everyone!
 Dialogue: 0,0:23:17.30,0:23:19.04,Default,,0,0,0,,Sorry I'm late!
-Dialogue: 0,0:23:21.68,0:23:25.30,Default,,0,0,0,,I asked Dan and the others as well while I was at it, but they said they couldn't make it.
+Dialogue: 0,0:23:21.68,0:23:25.30,Default,,0,0,0,,I asked Dan and the others while I was at it,\Nbut they said they couldn't make it.
 Dialogue: 0,0:23:26.62,0:23:27.48,Default,,0,0,0,,You idiot!
 Dialogue: 0,0:23:27.48,0:23:29.62,Default,,0,0,0,,I'm the idiot for expecting anything!
 Dialogue: 0,0:23:29.60,0:23:32.72,Default,,0,0,0,,{\an8}Playing with the hearts of girls, you're the worst!
-Dialogue: 0,0:23:30.40,0:23:33.00,Default,,0,0,0,,I thought it would be something like this...
+Dialogue: 0,0:23:30.40,0:23:33.00,Default,,0,0,0,,Well, I thought it would be something like this...
 Dialogue: 0,0:23:32.72,0:23:34.02,Default,,0,0,0,,{\an8}You fail as a bride!
 Dialogue: 0,0:23:41.02,0:23:42.66,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:23:55.90,0:23:58.14,Default,,0,0,0,,Ichika-san!
@@ -441,8 +441,8 @@ Dialogue: 0,0:24:42.16,0:24:43.54,Default,,0,0,0,,You don't think...
 Dialogue: 0,0:24:47.00,0:24:48.50,Default,,0,0,0,,She tricked us!
 Dialogue: 0,0:24:48.78,0:24:51.62,Default,,0,0,0,,We need to split into two groups and look for them.
 Dialogue: 0,0:24:56.18,0:24:59.60,Default,,0,0,0,,Pools really are the best in the summer.
-Dialogue: 0,0:25:00.84,0:25:05.72,Default,,0,0,0,,Hey, I haven't seen anyone up until now. Are you sure they're here?
-Dialogue: 0,0:25:05.76,0:25:06.84,Default,,0,0,0,,Gulp.
+Dialogue: 0,0:25:00.84,0:25:05.72,Default,,0,0,0,,Hey, I haven't seen anyone yet. Are you sure they're here?
+Dialogue: 0,0:25:05.76,0:25:06.84,Default,,0,0,0,,Urp...
 Dialogue: 0,0:25:07.20,0:25:09.06,Default,,0,0,0,,T-That's odd, isn't it?
 Dialogue: 0,0:25:13.42,0:25:14.54,Default,,0,0,0,,Cecilia!
 Dialogue: 0,0:25:16.72,0:25:19.04,Default,,0,0,0,,Where did they go?
@@ -454,11 +454,11 @@ Dialogue: 0,0:25:40.34,0:25:42.82,Default,,0,0,0,,Oh, it's Orimura.
 Dialogue: 0,0:25:43.94,0:25:45.64,Default,,0,0,0,,Hey there!
 Dialogue: 0,0:25:46.10,0:25:48.44,Default,,0,0,0,,Nohohon-san! You all came!
 Dialogue: 0,0:25:48.90,0:25:51.54,Default,,0,0,0,,Many of the girls from the IS Academy are here.
-Dialogue: 0,0:25:51.88,0:25:55.72,Default,,0,0,0,,Ooh, captain, Cecilia's wearing a perverted swimsuit.
+Dialogue: 0,0:25:51.88,0:25:55.72,Default,,0,0,0,,Ooh, Captain, Cecilia wore a skimpy swimsuit.
 Dialogue: 0,0:25:56.88,0:25:57.80,Default,,0,0,0,,She really did!
 Dialogue: 0,0:25:57.80,0:25:59.42,Default,,0,0,0,,How bold!
 Dialogue: 0,0:25:59.90,0:26:02.24,Default,,0,0,0,,How erotic, Cecilia!
-Dialogue: 0,0:26:03.18,0:26:05.54,Default,,0,0,0,,I-I'm not like that!
+Dialogue: 0,0:26:03.18,0:26:05.54,Default,,0,0,0,,I-it's not erotic!
 Dialogue: 0,0:26:17.88,0:26:20.00,Default,,0,0,0,,Orimu, bye-bye!
 Dialogue: 0,0:26:28.40,0:26:29.52,Default,,0,0,0,,Cecilia?
 Dialogue: 0,0:26:29.96,0:26:30.66,Default,,0,0,0,,Huh?
@@ -504,18 +504,18 @@ Dialogue: 0,0:28:31.00,0:28:32.62,Default,,0,0,0,,But you still touched them...
 Dialogue: 0,0:28:33.80,0:28:37.75,Default,,0,0,0,,You're late, Ichika. What are you doing?
 Dialogue: 0,0:28:39.48,0:28:42.62,Default,,0,0,0,,Alright, let me explain the pair-slide.
 Dialogue: 0,0:28:43.06,0:28:51.54,Default,,0,0,0,,First, the guy sits down. Then, the girl sits between his legs and the guy grabs her from behind.
-Dialogue: 0,0:28:51.96,0:28:53.40,Default,,0,0,0,,Say, Houki?
-Dialogue: 0,0:28:53.40,0:28:55.42,Default,,0,0,0,,Would you mind sitting behind me?
+Dialogue: 0,0:28:51.96,0:28:53.40,Default,,0,0,0,,Hey, Houki?
+Dialogue: 0,0:28:53.40,0:28:55.42,Default,,0,0,0,,Do you mind sitting behind me?
 Dialogue: 0,0:28:56.52,0:28:57.88,Default,,0,0,0,,Isn't that backwards?
-Dialogue: 0,0:28:58.90,0:29:02.58,Default,,0,0,0,,Well the water's pretty strong;
+Dialogue: 0,0:28:58.90,0:29:02.58,Default,,0,0,0,,Well, the water's pretty strong.
 Dialogue: 0,0:29:02.58,0:29:05.90,Default,,0,0,0,,It might be best for you to hide your face behind me.
-Dialogue: 0,0:29:09.02,0:29:10.38,Default,,0,0,0,,Alright, I got ya.
+Dialogue: 0,0:29:09.02,0:29:11.65,Default,,0,0,0,,Um...like this?
 Dialogue: 0,0:29:14.28,0:29:16.94,Default,,0,0,0,,The tighter you hold on, the safer you are.
 Dialogue: 0,0:29:18.31,0:29:20.22,Default,,0,0,0,,Um, is this okay?
 Dialogue: 0,0:29:20.50,0:29:21.70,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:29:22.76,0:29:24.58,Default,,0,0,0,,H-Hey...
 Dialogue: 0,0:29:26.48,0:29:28.48,Default,,0,0,0,,Well then, enjoy the ride!
-Dialogue: 0,0:29:36.48,0:29:38.88,Default,,0,0,0,,Wow, that was really fast, wasn't it?
+Dialogue: 0,0:29:36.48,0:29:38.88,Default,,0,0,0,,Wow, we went really fast, didn't we?
 Dialogue: 0,0:29:40.24,0:29:41.72,Default,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:29:43.10,0:29:45.28,Default,,0,0,0,,What's wrong? Did you get hurt?
 Dialogue: 0,0:29:45.76,0:29:47.68,Default,,0,0,0,,No...umm...
@@ -533,7 +533,7 @@ Dialogue: 0,0:30:35.96,0:30:36.60,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:30:43.48,0:30:47.48,On Top,,0,0,0,,Green Day Market
 Dialogue: 0,0:30:49.58,0:30:50.80,Default,,0,0,0,,Ichika!
 Dialogue: 0,0:30:58.04,0:31:00.24,Default,,0,0,0,,So pretty! What are these?
-Dialogue: 0,0:31:00.24,0:31:02.06,Default,,0,0,0,,I've never seen them before.
+Dialogue: 0,0:31:00.24,0:31:02.06,Default,,0,0,0,,I've never seen this before.
 Dialogue: 0,0:31:02.54,0:31:04.40,Default,,0,0,0,,It's called goldfish-scooping.
 Dialogue: 0,0:31:04.70,0:31:07.40,Default,,0,0,0,,You use this to scoop goldfish.
 Dialogue: 0,0:31:07.68,0:31:08.96,Default,,0,0,0,,Looks like fun!
@@ -608,13 +608,13 @@ Dialogue: 0,0:35:31.36,0:35:34.74,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k50}ki{\k19}n
 Dialogue: 0,0:35:31.36,0:35:34.74,EDEnglish,,0,0,0,,{\fad(0,250)}I want to be stronger than I was yesterday
 Dialogue: 0,0:35:34.74,0:35:37.68,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k89}i{\k25}tsu {\k18}de{\k162}mo
 Dialogue: 0,0:35:34.74,0:35:37.68,EDEnglish,,0,0,0,,{\fad(0,250)}All the time
-Dialogue: 0,0:35:38.32,0:35:41.10,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k21}ta{\k21}ka{\k32}ku {\k32}mot{\k44}to {\k92}beautiful {\k35}sky
+Dialogue: 0,0:35:38.32,0:35:41.10,EDRoomaji,,0,0,0,,{\k21}{\fad(0,250)}ta{\k21}ka{\k29}ku {\k32}mot{\k47}to {\k47}beau{\k9}ti{\k24}ful {\k48}sky
 Dialogue: 0,0:35:38.32,0:35:41.10,EDEnglish,,0,0,0,,{\fad(0,250)}Let's go higher into the beautiful sky
 Dialogue: 0,0:35:41.10,0:35:44.30,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k20}su{\k23}ki {\k21}to{\k48}o{\k32}ru {\k36}ma{\k22}na{\k16}za{\k17}shi {\k85}ni
 Dialogue: 0,0:35:41.10,0:35:44.30,EDEnglish,,0,0,0,,{\fad(0,250)}Our gaze will make it all the way through
 Dialogue: 0,0:35:44.30,0:35:48.40,EDRoomaji,,0,0,0,,{\k23}ko{\k15}no {\k14}shu{\k13}n{\k12}ka{\k15}n {\k28}wo {\k33}ya{\k29}ki{\k38}tsu{\k33}ke{\k39}te {\k28}i{\k90}ku
 Dialogue: 0,0:35:44.30,0:35:48.40,EDEnglish,,0,0,0,,{\fad(0,250)}Let's burn this moment into our hearts
-Dialogue: 0,0:35:48.98,0:35:51.76,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}hi{\k17}ka{\k17}ru {\k49}mot{\k46}to {\k88}Beautiful {\k39}Sky
+Dialogue: 0,0:35:48.98,0:35:51.76,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}hi{\k17}ka{\k17}ru {\k49}mot{\k46}to {\k47}beau{\k9}ti{\k24}ful {\k31}sky
 Dialogue: 0,0:35:48.98,0:35:51.76,EDEnglish,,0,0,0,,{\fad(0,250)}Let's bring more light into this beautiful sky
 Dialogue: 0,0:35:51.76,0:35:54.82,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}tsu{\k12}ba{\k36}sa {\k34}go{\k42}to {\k44}da{\k13}ki{\k19}shi{\k21}me{\k63}te
 Dialogue: 0,0:35:51.76,0:35:54.82,EDEnglish,,0,0,0,,{\fad(0,250)}I'll embrace you and your wings
@@ -638,13 +638,13 @@ Dialogue: 0,0:36:38.02,0:36:39.84,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k42}ka{\k45}s
 Dialogue: 0,0:36:38.02,0:36:39.84,EDEnglish,,0,0,0,,{\fad(0,250)}Our feelings eventually add up
 Dialogue: 0,0:36:39.84,0:36:44.30,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k23}ki{\k16}mi {\k19}no {\k11}yu{\k15}u{\k19}ki {\k67}ni {\k61}na{\k39}re{\k19}ta{\k157}ra
 Dialogue: 0,0:36:39.84,0:36:44.30,EDEnglish,,0,0,0,,{\fad(0,250)}I wonder if I gave you the courage
-Dialogue: 0,0:36:44.94,0:36:47.70,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k20}da{\k17}ka{\k22}ra {\k14}ky{\k11}o{\k24}u {\k52}ga {\k57}precious {\k59}memory
+Dialogue: 0,0:36:44.94,0:36:47.70,EDRoomaji,,0,0,0,,{\k20}{\fad(0,250)}da{\k17}ka{\k22}ra {\k49}kyou {\k52}ga {\k45}pre{\k10}cious {\k23}me{\k23}mo{\k15}ry
 Dialogue: 0,0:36:44.94,0:36:47.70,EDEnglish,,0,0,0,,{\fad(0,250)}That's why today is a precious memory
 Dialogue: 0,0:36:47.71,0:36:50.82,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k34}o{\k15}wa{\k21}ra{\k34}na{\k50}i {\k38}ma{\k17}bu{\k14}shi{\k18}sa {\k70}e
 Dialogue: 0,0:36:47.70,0:36:50.82,EDEnglish,,0,0,0,,{\fad(0,250)}Ever since we jumped
 Dialogue: 0,0:36:50.82,0:36:55.04,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k36}to{\k20}bi{\k15}ko{\k17}n{\k19}da {\k17}a{\k14}no {\k30}to{\k32}ki {\k32}ka{\k28}ra {\k75}zut{\k87}to
 Dialogue: 0,0:36:50.82,0:36:55.04,EDEnglish,,0,0,0,,{\fad(0,250)}into that endless light
-Dialogue: 0,0:36:55.56,0:36:58.48,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}sa{\k17}sa{\k15}e{\k48}at{\k59}te {\k58}precious {\k73}memories
+Dialogue: 0,0:36:55.56,0:36:58.48,EDRoomaji,,0,0,0,,{\k22}{\fad(0,250)}sa{\k17}sa{\k15}e{\k50}at{\k59}te {\k45}pre{\k10}cious {\k23}me{\k23}mo{\k15}ries
 Dialogue: 0,0:36:55.56,0:36:58.48,EDEnglish,,0,0,0,,{\fad(0,250)}Let's support each other and make more precious memories
 Dialogue: 0,0:36:58.48,0:37:01.50,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k26}nu{\k15}ku{\k32}mo{\k33}ri {\k53}ga {\k25}ko{\k22}ko {\k19}ni {\k14}a{\k63}ru
 Dialogue: 0,0:36:58.48,0:37:01.50,EDEnglish,,0,0,0,,{\fad(0,250)}The warmth is right here
@@ -660,21 +660,22 @@ Dialogue: 0,0:37:33.48,0:37:35.48,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k40}to{\k44}o
 Dialogue: 0,0:37:33.48,0:37:35.48,EDEnglish,,0,0,0,,{\fad(0,250)}So far away
 Dialogue: 0,0:37:35.48,0:37:42.78,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k43}ki{\k30}mi {\k13}no {\k23}se{\k14}na{\k17}ka {\k35}wo {\k17}u{\k32}shi{\k17}wa{\k18}na{\k64}i {\k118}zet{\k16}ta{\k273}i
 Dialogue: 0,0:37:35.48,0:37:42.78,EDEnglish,,0,0,0,,{\fad(0,250)}I won't ever lose the sight of your back
-Dialogue: 0,0:37:44.94,0:37:47.78,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}ta{\k22}ka{\k18}ku {\k49}mot{\k64}to {\k74}beautiful {\k35}sky
+Dialogue: 0,0:37:44.94,0:37:47.78,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k22}ta{\k22}ka{\k18}ku {\k49}mot{\k64}to {\k47}beau{\k9}ti{\k24}ful {\k31}sky
 Dialogue: 0,0:37:44.94,0:37:47.78,EDEnglish,,0,0,0,,{\fad(0,250)}Let's go even higher into the beautiful sky
 Dialogue: 0,0:37:47.78,0:37:50.80,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k24}su{\k18}ki {\k21}to{\k46}o{\k32}ru {\k53}ma{\k11}na{\k11}za{\k29}shi {\k57}ni
 Dialogue: 0,0:37:47.78,0:37:50.80,EDEnglish,,0,0,0,,{\fad(0,250)}Our gaze will make it all the way through
 Dialogue: 0,0:37:51.00,0:37:54.82,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k19}ko{\k14}no {\k14}shu{\k20}n{\k12}ka{\k10}n {\k34}wo {\k30}ya{\k22}ki{\k34}tsu{\k33}ke{\k48}te {\k27}i{\k65}ku
 Dialogue: 0,0:37:51.00,0:37:54.82,EDEnglish,,0,0,0,,{\fad(0,250)}Let's burn this moment into our hearts
-Dialogue: 0,0:37:55.62,0:37:58.44,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k19}hi{\k8}ka{\k18}ru {\k47}mot{\k68}to {\k85}Beautiful {\k37}Sky
+Dialogue: 0,0:37:55.62,0:37:58.44,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k19}hi{\k8}ka{\k18}ru {\k47}mot{\k68}to {\k47}beau{\k9}ti{\k24}ful {\k31}sky
 Dialogue: 0,0:37:55.62,0:37:58.44,EDEnglish,,0,0,0,,{\fad(0,250)}Let's bring more light into this beautiful sky
 Dialogue: 0,0:37:58.49,0:38:01.50,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k14}tsu{\k18}ba{\k34}sa {\k33}go{\k36}to {\k31}da{\k32}ki{\k16}shi{\k19}me{\k68}te
 Dialogue: 0,0:37:58.48,0:38:01.50,EDEnglish,,0,0,0,,{\fad(0,250)}I'll embrace you and your wings
-Dialogue: 0,0:38:01.50,0:38:05.62,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k23}ma{\k18}mo{\k31}ri{\k16}ta{\k54}i {\k29}ka{\k19}ga{\k15}ya{\k19}ki {\k30}ga {\k33}ky{\k9}o{\k9}u {\k107}mo
+Dialogue: 0,0:38:01.50,0:38:05.62,EDRoomaji,,0,0,0,,{\k23}{\fad(0,250)}ma{\k18}mo{\k31}ri{\k16}ta{\k54}i {\k29}ka{\k19}ga{\k15}ya{\k19}ki {\k30}ga {\k42}kyo{\k9}u {\k107}mo
 Dialogue: 0,0:38:01.50,0:38:05.62,EDEnglish,,0,0,0,,{\fad(0,250)}Since the light we want to protect
 Dialogue: 0,0:38:05.62,0:38:08.78,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k26}chi{\k19}ka{\k14}ra {\k18}wo {\k18}ku{\k16}re{\k205}ru
 Dialogue: 0,0:38:05.62,0:38:08.78,EDEnglish,,0,0,0,,{\fad(0,250)}gives us our strength today
 Dialogue: 0,0:38:08.78,0:38:14.18,EDRoomaji,,0,0,0,,{\fad(0,250)}{\k24}ko{\k20}ko {\k9}ni {\k25}shi{\k33}ka{\k17}na{\k82}i {\k23}ki{\k21}zu{\k15}na {\k17}ga {\k21}a{\k21}ru {\k212}ne
 Dialogue: 0,0:38:08.78,0:38:14.18,EDEnglish,,0,0,0,,{\fad(0,250)}since these bonds will remain with us here
 Dialogue: 0,0:38:34.02,0:38:38.96,SIGN,,0,0,0,,{\3c&H404040&\c&HFFFFFF&\pos(358,290)}{\fad(0,50)}Next Time{\3c&H323232&}
+Dialogue: 0,0:38:55.75,0:39:04.78,Default,,0,0,0,,Next time, "Painkillers for the Heart."
 Dialogue: 0,0:38:55.75,0:39:04.78,SIGN,,0,0,0,,{\pos(960,686)\c&HFFFFFF&\3c&H3E3F40&}{\fad(750,0)}Painkillers for the Heart
