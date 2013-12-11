@@ -8,12 +8,12 @@ PlayResX: 1280
 PlayResY: 720
 Audio URI: ..\..\[Zero-Raws] IS Infinite Stratos 2 - 02 (TBS 1280x720 x264 AAC).mp4
 Video Zoom Percent: 0.375
-Scroll Position: 317
+Scroll Position: 18
 Active Line: 324
 Video File: ..\..\[Zero-Raws] IS Infinite Stratos 2 - 02 (TBS 1280x720 x264 AAC).mp4
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77778
-Video Position: 32398
+Video Position: 32170
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -26,6 +26,12 @@ Style: Ep Title,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F40404
 Style: Copy of Ep Title,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,93,301,87,0
 Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
 Style: Copy of OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,27,27,27,0
+Style: EDRoomaji - Overlay,Finger Paint,52,&H00FFFFFF,&H000000FF,&H00750EAB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,10,30,20,1
+Style: OPRoomaji,Andika,72,&H00FFFFFF,&H00C3C3FF,&H006B00A4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,35,30,35,1
+Style: OPEnglish,Andika,72,&H00FFFFFF,&H00ABABFF,&H006F00A9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,3,30,35,35,1
+Style: EDEnglish,Finger Paint,70,&H00FFFFFF,&H000000FF,&H00B32900,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,3,10,35,35,1
+Style: EDRoomaji,Finger Paint,70,&H00FFFFFF,&H00D9D18B,&H00A72A00,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,35,10,35,1
+Style: EDEnglish - Overlay,Finger Paint,52,&H00FFFFFF,&H000000FF,&H00750EAB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,30,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
